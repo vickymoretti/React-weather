@@ -112,6 +112,17 @@ export default function Weather() {
 					</div>
 				</div>
 			</div>
+			<footer>
+				{" "}
+				This project was coded by Victoria Moretti and is{" "}
+				<a
+					href="https://github.com/vickymoretti/React-weather"
+					target="_blank"
+					rel="noreferrer"
+				>
+					Open-sourse
+				</a>
+			</footer>
 		</span>
 	);
 }
